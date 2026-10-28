@@ -1,0 +1,6 @@
+{
+  "name": "SmartDose - Smart Medicine Reminder",
+  "description": "Smart, elderly-accessible medication reminder mobile app with smart scheduling, dose tracking, caregiver alerts, and hackathon presentation kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
